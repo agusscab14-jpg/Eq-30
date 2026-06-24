@@ -1,0 +1,6 @@
+{
+  "name": "Equalizer",
+  "description": "Ecualizador de 30 bandas con perfiles personalizables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
